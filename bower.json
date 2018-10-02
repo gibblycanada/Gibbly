@@ -1,0 +1,20 @@
+{
+  "name": "gibbly",
+  "description": "good game",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "^1.0.2",
+    "SoundJS": "^1.0.2",
+    "PreloadJS": "^1.0.1",
+    "TweenJS": "^1.0.2"
+  }
+}
